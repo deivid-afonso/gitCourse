@@ -2,5 +2,6 @@
 para inserir imagens usar comando abaixo
 entre colchetes colocar o link da img
 entre parenteses msg que aparece na img
-foto ficou bugada, verificar fixed
+verificar fixed
+descricao primeiro, link segundo
 ![tst img](./imgtst.jpg)
